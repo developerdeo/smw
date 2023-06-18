@@ -1,0 +1,4 @@
+#All text file
+*.txt
+
+#git commit -m "my first commit repository"
