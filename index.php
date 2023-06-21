@@ -9,14 +9,7 @@
   <script src="bootstrap-5.3.0-dist\bootstrap-5.3.0-dist\js\bootstrap.min.js"></script>
   <title>SMW</title>
 </head>
-<body bgcolor="yellow">
-<button onclick="login()">Login</button>
-<script>
-function login(){
-    location.replace("login.php")
-}
-</script>
+<body>
+
+
 </body>
-</html>
-
-
