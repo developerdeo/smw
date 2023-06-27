@@ -9,8 +9,8 @@
   <script src="bootstrap-5.3.0-dist\bootstrap-5.3.0-dist\js\bootstrap.min.js"></script>
   <title>SMW</title>
 </head>
-<body bgcolor="yellow">
-<button onclick="login()">Login</button>
+<body>
+<?php include "navbar.php";?>
 <h1>Aboutus</h1>
 </body>
 </html>

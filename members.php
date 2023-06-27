@@ -10,6 +10,7 @@
   <title>SMW</title>
 </head>
 <body bgcolor="yellow">
+    <?php include "navbar.php";?>
 <h1>members</h1>
 </body>
 </html>
